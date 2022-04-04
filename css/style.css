@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+    background: url(../Imagenes/fondo.jpg);
+    background-size: cover;
+    
+}
+h1{
+    color:#ffffff;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+button{
+    color:#f9f900d0;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-radius: 35px;
+    background: #ffffff00;
+}
+
+#contBotones{
+    width: 450px;
+    height: 300px;
+    display:inline-block;
+    text-align: center; 
+}
+
+button:hover{
+    background: #f0d9d9;
+    color: #0b82d7;
+    padding: 12px 12px;
+    border-radius: 10px;
+}
